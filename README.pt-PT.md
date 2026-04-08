@@ -2,7 +2,7 @@
   <a href="README.md">English</a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a5f,100:4DA6FF&text=Jo%C3%A3o%20Maia&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Engenheiro%20Full-Stack%20e%20Especialista%20em%20Solu%C3%A7%C3%B5es%20de%20TI%20%C2%B7%20JMSIT&descAlignY=55&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a5f,100:4DA6FF&text=Jo%C3%A3o%20Maia&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Engenheiro%20Full-Stack%20%7C%20Especialista%20em%20Solu%C3%A7%C3%B5es%20de%20TI%20%C2%B7%20JMSIT&descAlignY=55&descSize=16&animation=fadeIn" />
 
 <div align="center">
 
@@ -136,7 +136,7 @@ Especializo-me em desenvolvimento orientado a objetos, arquitetura limpa e entre
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vunf1&theme=tokyonight" alt="Repos por Linguagem" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vunf1&theme=tokyonight&utcOffset=1" alt="Horas Produtivas" />
 </div>
 
