@@ -2,12 +2,12 @@
   <a href="README.pt-PT.md">Português</a>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a5f,100:4DA6FF&text=Jo%C3%A3o%20Maia&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Full-Stack%20Engineer%20%26%20IT%20Solutions%20Specialist%20%C2%B7%20JMSIT&descAlignY=55&descSize=16&animation=fadeIn" />
+
 <div align="center">
 
-# João Maia
-
 <a href="https://jmsit.cloud/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Engineer+%26+IT+Solutions+Specialist;Building+end-to-end+systems+with+security+in+mind;Porto%2C+Portugal+%C2%B7+JMSIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=550&lines=Building+end-to-end+systems+with+security+in+mind;Porto%2C+Portugal+%C2%B7+Open+to+collaboration" alt="Typing SVG" />
 </a>
 
 ---
@@ -124,27 +124,20 @@ I specialise in object-oriented development, clean architecture, and delivering 
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vunf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vunf1&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vunf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vunf1&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vunf1&theme=default&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vunf1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vunf1&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=compact&theme=default&hide_border=true" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </picture>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vunf1&theme=tokyonight" alt="Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=vunf1&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vunf1&theme=tokyonight&utcOffset=1" alt="Productive Time" />
 </div>
 
 ---
@@ -161,7 +154,7 @@ Currently working on AI-driven automation workflows, multi-tenant platform archi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -176,3 +169,5 @@ Currently working on AI-driven automation workflows, multi-tenant platform archi
 *Open to professional opportunities and collaboration.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a5f,100:4DA6FF" />

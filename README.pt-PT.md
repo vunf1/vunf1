@@ -2,12 +2,12 @@
   <a href="README.md">English</a>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1e3a5f,100:4DA6FF&text=Jo%C3%A3o%20Maia&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Engenheiro%20Full-Stack%20e%20Especialista%20em%20Solu%C3%A7%C3%B5es%20de%20TI%20%C2%B7%20JMSIT&descAlignY=55&descSize=16&animation=fadeIn" />
+
 <div align="center">
 
-# João Maia
-
 <a href="https://jmsit.cloud/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Engenheiro+Full-Stack+e+Especialista+em+Solu%C3%A7%C3%B5es+de+TI;Sistemas+de+ponta+a+ponta+com+seguran%C3%A7a+integrada;Porto%2C+Portugal+%C2%B7+JMSIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=4000&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Sistemas+de+ponta+a+ponta+com+seguran%C3%A7a+integrada;Porto%2C+Portugal+%C2%B7+Aberto+a+colabora%C3%A7%C3%A3o" alt="Typing SVG" />
 </a>
 
 ---
@@ -124,27 +124,20 @@ Especializo-me em desenvolvimento orientado a objetos, arquitetura limpa e entre
 
 ---
 
-## Estatísticas GitHub
+## GitHub Snapshot
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vunf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vunf1&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vunf1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas GitHub" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vunf1&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vunf1&theme=default&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vunf1&theme=tokyonight&hide_border=true" alt="Sequência GitHub" />
-  </picture>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vunf1&theme=tokyonight" alt="Detalhes do Perfil" />
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=compact&theme=default&hide_border=true" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
-  </picture>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vunf1&theme=tokyonight" alt="Estatísticas" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=vunf1&theme=tokyonight&hide_border=true" alt="Sequência" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vunf1&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens Mais Utilizadas" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vunf1&theme=tokyonight&utcOffset=1" alt="Horas Produtivas" />
 </div>
 
 ---
@@ -161,7 +154,7 @@ Atualmente focado em fluxos de automação com IA, arquitetura de plataformas mu
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="Animação de contribuições" src="https://raw.githubusercontent.com/vunf1/vunf1/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
@@ -176,3 +169,5 @@ Atualmente focado em fluxos de automação com IA, arquitetura de plataformas mu
 *Disponível para oportunidades profissionais e colaboração.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e3a5f,100:4DA6FF" />
