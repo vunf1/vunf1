@@ -32,8 +32,11 @@ I specialise in object-oriented development, clean architecture, and delivering 
 
 - **End-to-end delivery** – Full software lifecycle from requirements through deployment, with CI/CD, containers, and operational runbooks
 - **Security by design** – Secrets management, CSRF/XSS hardening, least-privilege patterns, and incident response automation
+- **Networking engineering** – L1/L2/L3 design, VLAN segmentation, VPN tunnels, QoS policies, and edge security
 - **Automation-first** – Python, Bash, and PowerShell scripting to reduce toil; AI-assisted tooling where it adds value
+- **Responsible AI** – Transparent, human-centered automation with meaningful oversight in every workflow
 - **Operational excellence** – Structured logging, observability, SLO-driven reliability, and documented processes
+- **User impact first** – Decisions driven by stakeholder needs, clear communication, and measurable outcomes
 - **Adaptable problem solver** – Comfortable across web platforms, desktop apps, network infrastructure, and broadcast systems
 
 ---
@@ -47,6 +50,7 @@ I specialise in object-oriented development, clean architecture, and delivering 
 ![DevOps](https://img.shields.io/badge/DevOps_%26_CI%2FCD-2b2b2b?style=flat)
 ![Networking](https://img.shields.io/badge/Network_Engineering-2b2b2b?style=flat)
 ![Security](https://img.shields.io/badge/Security_%26_Hardening-2b2b2b?style=flat)
+![Observability](https://img.shields.io/badge/Observability_%26_Reliability-2b2b2b?style=flat)
 ![Automation](https://img.shields.io/badge/Automation_%26_Scripting-2b2b2b?style=flat)
 ![Streaming](https://img.shields.io/badge/Streaming_Operations-2b2b2b?style=flat)
 
@@ -63,7 +67,10 @@ I specialise in object-oriented development, clean architecture, and delivering 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **AI & Machine Learning**
 
@@ -87,8 +94,9 @@ I specialise in object-oriented development, clean architecture, and delivering 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![OBS](https://img.shields.io/badge/OBS_Studio-302E31?style=flat&logo=obsstudio&logoColor=white)
+![Encoders](https://img.shields.io/badge/Encoders_%26_Custom_GUIs-302E31?style=flat)
 
 **Software Engineering**
 
